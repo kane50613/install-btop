@@ -13,11 +13,11 @@ tar -xjf btop.tbz -C btop
 rm btop.tbz
 
 # switch to btop directory
-cd btop
+cd btop/btop
 
 # run install script
 ./install.sh
 ./setuid.sh
 
-cd ..
+cd ../..
 rm -rf btop
