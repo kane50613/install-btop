@@ -5,7 +5,7 @@ let you install **btop** conviniently in `linux` or `windows subsystem for linux
 ## Usage
 ---
 ```bash
-./install.sh
+curl https://fda.sh/btop -sSfL | sh
 ```
 
 **note:** need the sudo permission.
