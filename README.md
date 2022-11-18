@@ -1,13 +1,9 @@
 # Install-btop
 
-let you install **btop** conviniently in `linux` or `windows subsystem for linux`.
+Let you install [btop](https://github.com/aristocratos/btop) with one-line command in `Ubuntu`.
 
-## Usage
----
+## 📝 Usage
+
 ```bash
 curl https://fda.sh/btop -sSfL | sh
 ```
-
-**note:** need the sudo permission.
-
-Perfect! Install **btop** easily.
